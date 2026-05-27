@@ -27,6 +27,61 @@
 
 ---
 
+# 📊 Project Insights
+
+<table align="center">
+  <thead align="center">
+    <tr>
+      <td><b>🌟 Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+      <td><b>🐛 Issues</b></td>
+      <td><b>🔔 Open PRs</b></td>
+      <td><b>🔕 Closed PRs</b></td>
+      <td><b>🛠️ Languages</b></td>
+      <td><b>👥 Contributors</b></td>
+      <td><b>📦 Repo Size</b></td>
+      <td><b>🕒 Last Commit</b></td>
+      <td><b>📈 Commit Activity</b></td>
+    </tr>
+  </thead>
+
+  <tbody align="center">
+    <tr>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/abhisek2004/45-Days-Python-Development-Challenge?style=flat&logo=github"/>
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/abhisek2004/45-Days-Python-Development-Challenge?style=flat&logo=github"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/abhisek2004/45-Days-Python-Development-Challenge?style=flat&logo=github"/>
+      </td>
+      <td>
+        <img alt="Open PRs" src="https://img.shields.io/github/issues-pr/abhisek2004/45-Days-Python-Development-Challenge?style=flat&logo=github"/>
+      </td>
+      <td>
+        <img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/abhisek2004/45-Days-Python-Development-Challenge?style=flat&color=critical&logo=github"/>
+      </td>
+      <td>
+        <img alt="Languages Count" src="https://img.shields.io/github/languages/count/abhisek2004/45-Days-Python-Development-Challenge?style=flat&color=green&logo=github"/>
+      </td>
+      <td>
+        <img alt="Contributors Count" src="https://img.shields.io/github/contributors/abhisek2004/45-Days-Python-Development-Challenge?style=flat&color=blue&logo=github"/>
+      </td>
+      <td>
+        <img alt="Repo Size" src="https://img.shields.io/github/repo-size/abhisek2004/45-Days-Python-Development-Challenge?style=flat&color=orange&logo=github"/>
+      </td>
+      <td>
+        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/abhisek2004/45-Days-Python-Development-Challenge?style=flat&color=yellow&logo=github"/>
+      </td>
+      <td>
+        <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/y/abhisek2004/45-Days-Python-Development-Challenge?style=flat&color=brightgreen&logo=github"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 # 🌟 45 Days Python Development Challenge
 
 Welcome to the **45 Days Python Development Challenge** — a complete journey from Python basics to advanced real-world development projects. This repository is built for developers, students, and open-source contributors who want to strengthen their Python skills through practical coding, daily consistency, and project building.
