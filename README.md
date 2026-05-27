@@ -146,13 +146,11 @@ Your GitHub profile becomes your professional coding portfolio.
 
 ---
 
-# ⏳ Program Countdown
+# ⏰ 🔥 Program Ending In...
 
 <div align="center">
 
-# 🔥 19 Days Left
-
-## ⏰ 07 Hours : 25 Minutes : 26 Seconds
+![Days Left](https://img.shields.io/badge/Program%20Ends-June%2015%202026-red?style=for-the-badge&logo=github)
 
 </div>
 
