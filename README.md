@@ -6,7 +6,6 @@
 
 <div align="center">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6bfc93f3-95fe-4700-acaa-f216e9f220c3" /><br><br>
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/49cb72f9-ff2c-43ef-9c59-c3d55ba12a15" />
   <p align="center">
   <b>This project is now OFFICIALLY accepted for: 🥵 NSoC'26 🥵 </b> <br><br>
   <b> ☀️ Code. Commit. Collaborate. Conquer NSoC'26. ☀️ 🚀🔥💻🌴🎉 </b>  
